@@ -1,6 +1,6 @@
-package com.sell.testdemo.web;
+package com.sell.meowcat.web;
 
-import com.sell.testdemo.service.ExamineService;
+import com.sell.meowcat.service.ExamineService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

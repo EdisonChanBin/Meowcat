@@ -1,6 +1,6 @@
-package com.sell.testdemo.service;
+package com.sell.meowcat.service;
 
-import com.sell.testdemo.vo.PublishVO;
+import com.sell.meowcat.vo.PublishVO;
 
 public interface PublishService {
 

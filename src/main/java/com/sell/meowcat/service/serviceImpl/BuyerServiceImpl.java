@@ -1,6 +1,6 @@
-package com.sell.testdemo.service.serviceImpl;
+package com.sell.meowcat.service.serviceImpl;
 
-import com.sell.testdemo.service.BuyerService;
+import com.sell.meowcat.service.BuyerService;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

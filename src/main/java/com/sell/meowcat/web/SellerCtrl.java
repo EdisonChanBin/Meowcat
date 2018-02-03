@@ -1,7 +1,7 @@
-package com.sell.testdemo.web;
+package com.sell.meowcat.web;
 
-import com.sell.testdemo.service.PublishService;
-import com.sell.testdemo.vo.PublishVO;
+import com.sell.meowcat.service.PublishService;
+import com.sell.meowcat.vo.PublishVO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

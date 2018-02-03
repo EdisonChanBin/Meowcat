@@ -1,6 +1,6 @@
-package com.sell.testdemo.web;
+package com.sell.meowcat.web;
 
-import com.sell.testdemo.service.BuyerService;
+import com.sell.meowcat.service.BuyerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;
 

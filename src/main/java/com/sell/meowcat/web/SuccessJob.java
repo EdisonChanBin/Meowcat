@@ -1,4 +1,4 @@
-package com.sell.testdemo.web;
+package com.sell.meowcat.web;
 
 import org.springframework.stereotype.Component;
 

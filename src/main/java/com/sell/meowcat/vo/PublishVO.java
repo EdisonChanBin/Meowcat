@@ -1,4 +1,4 @@
-package com.sell.testdemo.vo;
+package com.sell.meowcat.vo;
 
 import java.io.Serializable;
 
